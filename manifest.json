@@ -1,8 +1,8 @@
 {
-    "name": "BungusModpack (Hippie Edition)",
-    "version_number": "6.23",
-    "website_url": "",
-    "description": "A modpack for STANK, and associates",
+    "name": "BungusModpack",
+    "version_number": "6.23.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "A modpack for STANK and associates",
     "dependencies": [
         "NomnomAB-RollingGiant-2.4.4",
         "PopleZoo-BetterItemScan-3.0.1",
