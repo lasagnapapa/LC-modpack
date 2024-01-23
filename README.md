@@ -18,4 +18,5 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 Save the world, my final message: Goodbye.
 
 Thunderstore: https://thunderstore.io/c/lethal-company/p/STANK/BungusModpack/
+
 Github: https://github.com/lasagnapapa/lethalbungussy
