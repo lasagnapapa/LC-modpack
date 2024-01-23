@@ -15,5 +15,6 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 ## P.S. You're a super mega ultra gamer, thank you for using this modpack.
 Save the world, my final message: Goodbye.
 
-## Update, 6.25.0 Changelog
+## Update, 6.25.4 Changelog
 Added (6) additional emote packs
+Updated description

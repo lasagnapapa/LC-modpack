@@ -1,8 +1,8 @@
 {
     "name": "BungusModpack",
-    "version_number": "6.25.3",
+    "version_number": "6.25.4",
     "website_url": "https://github.com/lasagnapapa/lethalbungussy",
-    "description": "A modpack for STANK and associates",
+    "description": "The best modpack in Lethal Company history, including some of the most influencial and iconic mods, as well as some new ones.",
     "dependencies": [
         "NomnomAB-RollingGiant-2.4.4",
         "PopleZoo-BetterItemScan-3.0.1",
