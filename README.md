@@ -16,3 +16,5 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 
 ## P.S. You're a super mega ultra gamer, thank you for using this modpack.
 Save the world, my final message: Goodbye.
+
+See on Thunderstore: https://thunderstore.io/c/lethal-company/p/STANK/BungusModpack/
