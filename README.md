@@ -1,4 +1,6 @@
-## "Yo what's up my diggity dogs, finger my as*hole. I wrote this code with a spatula in my weiner-hole, dum diddly."
+## This is the greatest Lethal Company modpack of all time.
+
+"Yo what's up my diggity dogs, finger my as*hole. I wrote this code with a spatula in my weiner-hole, dum diddly.
 
 This is the modpack for the group know as STANK, three best friends from elementary school (and beyond)
 Feel free to download this modpack, for crazy, insane, madening, and quite possibly horrific-ing times.
