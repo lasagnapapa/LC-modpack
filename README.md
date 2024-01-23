@@ -1,6 +1,4 @@
-## This is the greatest Lethal Company modpack of all time.
-
-"Yo what's up my diggity dogs, finger my as*hole. I wrote this code with a spatula in my weiner-hole, dum diddly.
+## "Yo what's up my diggity dogs, finger my as*hole. I wrote this code with a spatula in my weiner-hole, dum diddly."
 
 This is the modpack for the group know as STANK, three best friends from elementary school (and beyond)
 Feel free to download this modpack, for crazy, insane, madening, and quite possibly horrific-ing times.
@@ -17,6 +15,5 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 ## P.S. You're a super mega ultra gamer, thank you for using this modpack.
 Save the world, my final message: Goodbye.
 
-Thunderstore: https://thunderstore.io/c/lethal-company/p/STANK/BungusModpack/
-
-Github: https://github.com/lasagnapapa/lethalbungussy
+## Update, 6.25.0 Changelog
+Added (6) additional emote packs
