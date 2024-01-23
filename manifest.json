@@ -1,6 +1,6 @@
 {
     "name": "BungusModpack",
-    "version_number": "6.25.0",
+    "version_number": "6.25.3",
     "website_url": "https://github.com/lasagnapapa/lethalbungussy",
     "description": "A modpack for STANK and associates",
     "dependencies": [
@@ -53,8 +53,6 @@
         "AinaVT-LethalConfig-1.3.4",
         "Gemumoddo-LethalEmotesAPI-1.3.2",
         "MK_MODS-DacneEmotesBundle-1.2.0",
-        "mertvybasein-NekiyManEmotes-1.0.5",
-        "broiiler-broiilers_silly_emotes-1.1.4",
         "kidkool-GlizzyEmotes-1.0.2",
         "FlipMods-ReservedItemSlotCore-1.8.12",
         "FlipMods-ReservedWalkieSlot-1.6.0",
@@ -97,7 +95,6 @@
         "Gemumoddo-BadAssCompany-1.1.3",
         "broiiler-broiilers_silly_emotes-1.1.5",
         "Sir_BananaCat-ToothlessDanceEmote-1.0.4",
-        "Rune580-LethalCompany_InputUtils-0.6.0",
         "BBing-BBing_Emotes-1.1.1"
     ]
   }
