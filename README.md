@@ -1,7 +1,7 @@
 ### "Yo what's up my diggity dogs, finger my as*hole. I wrote this code with a spatula in my weiner-hole, dum diddly."
 
 This is the modpack for the group know as STANK, three best friends from elementary school (and beyond)
-Feel free to download this modpack, for crazy, insane, madening, and quite possibly horrific-ing times.
+Feel free to download this modpack, for crazy, insane, maddening, and quite possibly horrific-ing times.
 
 I'm writing this because I feel a large sense of dispair and uncertainty, in a time of no security.
 Goodbye. Eat my ass, and stroke my dick. We Audi-5000.
