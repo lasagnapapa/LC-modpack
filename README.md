@@ -7,6 +7,7 @@ I'm writing this because I feel a large sense of dispair and uncertainty, in a t
 Goodbye. Eat my ass, and stroke my dick. We Audi-5000.
 
 **COOL TEXT**
+
 The mods in this pack are wild.
 We got shit like gambling, moaning (fr), reserved slots (as one does), and some other features.
 Side effects of prolonged exposure to this modpack may result in a staggeringly high increase in penis size/vaginal depth.
@@ -15,6 +16,5 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 ### P.S. You're a super mega ultra gamer, thank you for using this modpack.
 Save the world, my final message: Goodbye.
 
-### Update, 6.25.5 Changelog
-- Added (6) additional emote packs
-- Updated description
+### Update, 6.26.0 Changelog
+- Added Discord Rich Presence (LethalRichPresence)
