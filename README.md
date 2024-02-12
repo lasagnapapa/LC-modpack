@@ -16,5 +16,5 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 ### P.S. You're a super mega ultra gamer, thank you for using this modpack.
 Save the world, my final message: Goodbye.
 
-### Update, 7.0.0 Changelog
-- Added a lot of stuff. (For war crimes)
+### Update, 7.1.0 Changelog
+- Added STANK audio
