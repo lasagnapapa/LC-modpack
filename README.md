@@ -16,7 +16,5 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 ### P.S. You're a super mega ultra gamer, thank you for using this modpack.
 Save the world, my final message: Goodbye.
 
-### Update, 6.82.0 Changelog
-- Added buyable Shotguns and Shells (FOR WAR CRIMES)
-- Added quota rollover (for when you gotta just ball)
-- Added credits rollover (for when you gotta just ball, postmortem)
+### Update, 7.0.0 Changelog
+- Added a lot of stuff. (For war crimes)
