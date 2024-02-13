@@ -16,5 +16,5 @@ Please refrain from stroking or jorking while using this mod (exceptions apply),
 ### P.S. You're a super mega ultra gamer, thank you for using this modpack.
 Save the world, my final message: Goodbye.
 
-### Update, 7.3.1 Changelog
-- Updated STANK Posters
+### Update, 7.4.0 Changelog
+- Removed Nuketown (DMCA?)
